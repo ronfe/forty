@@ -1,7 +1,7 @@
 # Forty
 Forty suggestions should follow
 
-沉稳
+沉稳 Calm
 ---
 
 * 不要随便显露你的情绪。
